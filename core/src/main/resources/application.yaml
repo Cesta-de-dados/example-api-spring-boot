@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/foo
+    username: foo
+  r2dbc:
+    url:
